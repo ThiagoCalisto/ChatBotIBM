@@ -1,0 +1,6 @@
+export const INPUT_SUCCESS = "INPUT_SUCCESS";
+export const INPUT_FAIL = "INPUT_FAIL";
+export const SESSION_SUCCESS = "SESSION_SUCESS";
+export const SESSION_FAIL = "SESSION_FAIL";
+export const MESSAGE_SUCESS = "MESSAGE_SUCESS";
+export const MESSAGE_FAIL = "MESSAGE_FAIL";
